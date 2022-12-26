@@ -105,11 +105,11 @@ Get the code for the course:
 
 ```bash
 git clone https://github.com/sosper30/eep520
-
+```
 Each week, we will add more code and README files. So you should do:
-
+```bash
 git pull origin main
-
+```
 to get the latest code.
 
 Git setup for homework
