@@ -105,7 +105,10 @@ Get the code for the course:
 
 ```bash
 git clone https://github.com/sosper30/eep520
+OR
+git clone git@github.com:sosper30/eep520.git
 ```
+Nowadays git uses extra layer of protection when cloning private repositories from github, you need to check[this](https://docs.github.com/en/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls for information on currently recommended modes of authentication) before cloning any private repository like eep520.
 Each week, we will add more code and README files. So you should do:
 ```bash
 git pull origin main
@@ -128,7 +131,7 @@ Then do
 ```
 mkdir 520-Assignments
 cd 520-Assignments
-touch README.md                # on a PC, make an empty file called README.md (using VS Code for example)
+touch README.md                # touch command creates a new file on the local machine.
 git init
 git add .
 git commit -m "first commit"
