@@ -108,7 +108,8 @@ git clone https://github.com/sosper30/eep520
 OR
 git clone git@github.com:sosper30/eep520.git
 ```
-Nowadays git uses extra layer of protection when cloning private repositories from github, you need to check[this](https://docs.github.com/en/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls) before cloning any private repository like eep520.
+Nowadays git uses extra layer of protection when cloning private repositories from github, you need to check [this](https://docs.github.com/en/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls) before cloning any private repository like eep520.
+
 Each week, we will add more code and README files. So you should do:
 ```bash
 git pull origin main
