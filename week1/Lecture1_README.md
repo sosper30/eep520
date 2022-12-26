@@ -122,10 +122,10 @@ Git setup for homework
 - Git is a version control system.
 - Git should be easy to install on any OS
 - Go to Github and make a new repo called 520-Assignments (*with no README*)
-- Make the repo *private*
+- Make the repo **private**
 - Invite Professor, Sanskar, and Booker to your repo
 - Follow these steps to invite someone on your git repo        [here](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository)
-- Our git usernames are: *sosper30*, *sanskarnaik*, and *bukehu*.
+- Our git usernames are: **sosper30**, **sanskarnaik**, and **bukehu**.
 
 Then do
 
