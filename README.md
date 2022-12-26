@@ -1,3 +1,2 @@
-# eep520
-EE P 520 class repository
-Hi
+# EEP_520_Winter2023
+Software Engineering for Embedded Applications
