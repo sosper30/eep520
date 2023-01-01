@@ -176,7 +176,7 @@ How we will use Git
 - Please follow these steps to make a release:
 - Step 1:
 <img width=50%
-     src="/Users/stlp/Desktop/Screen Shot 2023-01-01 at 11.39.02 AM.png">
+     src="https://i.ibb.co/m0PnkC1/Screen-Shot-2023-01-01-at-11-39-02-AM.png">
 - We will clone your repo on Sundays mid-day (or there about).
 - For C and C++ exercises, we will replace `unit_test.c` with our own `unit_test.c` and recompile your code. We will put our scripts up on Github (leaving out some details) for you to use and test your code.
 - <span style="color: red">It is important to name your functions and classes exactly as we specify so that the tests will compile.</span>
