@@ -141,7 +141,7 @@ git push -u origin main
 // edit and/or add some files
 git add .
 git commit -m "Changed some files"
-git push origin main
+git -u push origin main
 ```
 
 Go back to Github to see your changes. Your student account should give you the ability to make private repos (so other students will not see your code).
