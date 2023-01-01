@@ -172,8 +172,8 @@ How we will use Git
 
 - We will assign exercises each week.
 - Put the code for exercises in, for example, `520-Assignments/hw_1`.
-- We will clone your repo on Mondays mid-day (or there about).
-- For C and C++ exercises, we will replace `unit_test.c` with our own `unit_test.c` and recompile your code. We will put our scripts up on Github (leaving out some details) for you to use test your code.
+- We will clone your repo on Sundays mid-day (or there about).
+- For C and C++ exercises, we will replace `unit_test.c` with our own `unit_test.c` and recompile your code. We will put our scripts up on Github (leaving out some details) for you to use and test your code.
 - <span style="color: red">It is important to name your functions and classes exactly as we specify so that the tests will compile.</span>
 
 Docker
