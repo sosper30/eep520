@@ -176,13 +176,13 @@ How we will use Git
 - Please follow these steps to make a release:
 - Step 1:
 - Under Releases section click on create a new release button.
-    <img width="500" alt="Screen Shot 2023-01-01 at 11 39 02 AM" src="https://user-images.githubusercontent.com/97274991/210183482-9788ceea-4101-4e8e-        a264-c10074a23494.png">
+<img width="500" alt="Screen Shot 2023-01-01 at 11 39 02 AM" src="https://user-images.githubusercontent.com/97274991/210183482-9788ceea-4101-4e8e-          a264-c10074a23494.png">
 - Step 2:
 - You need to choose a tag before publishing your release, you can make your own tag as shown in the image.
-    <img width="500" alt="Screen Shot 2023-01-01 at 11 42 10 AM" src="https://user-images.githubusercontent.com/97274991/210183570-a696c859-ba8c-4123-        8db3-1bbf21ff5f86.png">
+<img width="500" alt="Screen Shot 2023-01-01 at 11 42 10 AM" src="https://user-images.githubusercontent.com/97274991/210183570-a696c859-ba8c-4123-          8db3-1bbf21ff5f86.png">
 - Step 3:
 - After creating your tag, complete steps 2,3,4 in the image.
-    <img width="500" alt="Screen Shot 2023-01-01 at 11 43 23 AM" src="https://user-images.githubusercontent.com/97274991/210183599-82817ef6-a8c6-4d24-        83ae-8fcc38421b7b.png">
+<img width="500" alt="Screen Shot 2023-01-01 at 11 43 23 AM" src="https://user-images.githubusercontent.com/97274991/210183599-82817ef6-a8c6-4d24-          83ae-8fcc38421b7b.png">
 - We will clone your repo on Sundays mid-day (or there about).
 - For C and C++ exercises, we will replace `unit_test.c` with our own `unit_test.c` and recompile your code. We will put our scripts up on Github (leaving out some details) for you to use and test your code.
 - <span style="color: red">It is important to name your functions and classes exactly as we specify so that the tests will compile.</span>
