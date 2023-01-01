@@ -175,7 +175,7 @@ How we will use Git
 - After pushing your code to the GitHub, make a **release** so that we can get the notification of that version of your code you uploaded.
 - Please follow these steps to make a release:
 - Step 1:
-<img width=50%
+<img width=70%
      src="https://i.ibb.co/m0PnkC1/Screen-Shot-2023-01-01-at-11-39-02-AM.png">
 - We will clone your repo on Sundays mid-day (or there about).
 - For C and C++ exercises, we will replace `unit_test.c` with our own `unit_test.c` and recompile your code. We will put our scripts up on Github (leaving out some details) for you to use and test your code.
