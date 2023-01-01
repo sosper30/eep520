@@ -33,7 +33,7 @@ Syllabus
 Course Structure
 ===
 
-- Live lectures on Mondays and Wednesdays from 4 to 5:50pm.
+- Lectures are on Mondays and Wednesdays from 4 to 5:50pm in room ECE 045
 - Homework assigned every Thursday. Due on Sundays the following week.(Need to change)
 - You need to submit your Homeworks via Github and also need to submit your git repo link on the Canvas. We will clone your code and run unit tests in a Docker container.
 - You may not copy or otherwise incorporate other people’s code into your own. 
