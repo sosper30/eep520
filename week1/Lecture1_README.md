@@ -8,7 +8,7 @@ Modern embedded systems programming starts with the hardware and extends all the
 
 - **Instructor**: Sep Makhsous (sosper30@uw.edu)
     - Office hour: By Appointment
-- **Teaching Assistant**: Sanskar Naik
+- **Teaching Assistant**: Sanskar Naik (snaik9@uw.edu)
     - Office hours: [Schedule](https://canvas.uw.edu/courses/1612505/modules/items/17326343)
 - **Grader**: Booker Hu (bukehu@uw.edu)
 
