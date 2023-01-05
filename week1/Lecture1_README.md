@@ -34,7 +34,6 @@ Course Structure
 ===
 
 - Lectures are on Mondays and Wednesdays from 4 to 5:50pm in room ECE 045
-- Homework assigned every Thursday. Due on Sundays the following week.(Need to change)
 - You need to submit your Homeworks via Github and also need to submit your git repo link on the Canvas. We will clone your code and run unit tests in a Docker container.
 - You may not copy or otherwise incorporate other people’s code into your own. 
 - Discussing strategies and ideas is alright.
@@ -63,7 +62,7 @@ Build Environment
 Code Editor
 ===
 
-- A very good editor for the C and C++ code is Visual Studio.
+- A very good editor for the C and C++ code is VS Code.
 - Free: [https://code.visualstudio.com/](https://code.visualstudio.com/)
 - Has syntax highlighting, autocomplete, extensions.
 - Other editors we like: Atom, Sublime.
@@ -125,7 +124,7 @@ Git setup for homework
 - Make the repo **private**
 - Invite Professor, Sanskar, and Booker to your repo
 - Follow these steps to invite someone on your git repo        [here](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository)
-- Our git usernames are: **sosper30**, **sanskarnaik**, and **bukehu**.
+- Our git usernames are: **sosper30**, **sanskarnaik**, and **hubuke**.
 
 Then do
 
