@@ -1,3 +1,4 @@
+#These extension will be ignored when compiling:
 bin/
 build/
 html/
