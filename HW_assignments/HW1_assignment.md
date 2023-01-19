@@ -4,7 +4,7 @@ Software Engineering for Embedded Applications
 
 ## HW1 Assignment
 
-### Due by 11:59pm PT on Saturday, January 20th, 2023 using Canvas and your private GitHub repos, to get 5% Bonus Point you can submit before 11:59pm on Friday, January 19th, 2023.
+### Due by 11:59pm PT on Saturday, January 21th, 2023 using Canvas and your private GitHub repos, to get 5% Bonus Point you can submit before 11:59pm on Friday, January 20th, 2023.
  
 Note: To avoid committing compiled objects to github, you should include the following extensions into a .gitignore file in the root of your repo (i.e. in 520_Assignments):
 
