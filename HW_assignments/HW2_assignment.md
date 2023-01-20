@@ -23,7 +23,7 @@ For this assignment, you will write a set of functions that are mostly unrelated
       - Makefile
 ```
 
-In the first directory, the `solutions.h` file will include `unit_test.h`, which should have all your function declarations in it. The implementations of those functions should be put in `solutions.c`.
+In the first directory, the `solutions` file will include `solutions.h`, which should have all your function declarations in it. The implementations of those functions should be put in `solutions.c`.
 
 # Exercises
 
