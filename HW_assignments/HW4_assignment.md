@@ -4,7 +4,7 @@ Software Engineering for Embedded Applications
 
 ## HW4 Assignment
 
-### Submit by 11:59pm PT on Friday, February 10th, 2023 for extra 5% marks. And the regular deadline to submit is 11:59pm PT on Saturday, February 11th, 2023.
+### Submit by 11:59pm PT on Friday, February 17th, 2023 for extra 5% marks. And the regular deadline to submit is 11:59pm PT on Saturday, February 18th, 2023.
 
 Within your private Github repository called `520-Assignments`, please make a new directory called `hw_4`.
 Note: for this assignment, you will want to clone the code from Lecture 4, specifically packages `typed_array` and `complex`.
