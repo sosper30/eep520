@@ -166,7 +166,7 @@ DynamicArray * DynamicArray_map(const DynamicArray * da, double (*f) (double)) {
     return result;
 }
 
-DynamicArray * DynamicArray_subarray(DynamicArray * da, int a, int b) {
+DynamicArray * DynamicArray_subarray(const DynamicArray * da, int a, int b) {
 
   assert(da->buffer != NULL);
   assert(b >= a);
