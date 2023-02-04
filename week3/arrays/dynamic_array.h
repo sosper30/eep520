@@ -84,7 +84,7 @@ int DynamicArray_num_arrays();
 
 /*! Destroys all arrays that have been constructed so far.
  */
-int DynamicArray_destroy_all();
+void DynamicArray_destroy_all();
 
 DynamicArray * DynamicArray_subarray(DynamicArray *, int, int);
 
