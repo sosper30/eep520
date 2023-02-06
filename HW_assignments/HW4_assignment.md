@@ -50,4 +50,4 @@ Note: for this assignment, you will want to clone the code from Lecture 4, speci
   unit_tests.cc
 ```
 
-Use `unit_tests.h` for all of your tests (we'll replace it with ours later).
+Use `unit_tests.cc` for all of your tests (we'll replace it with ours later).
