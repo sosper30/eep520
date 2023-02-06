@@ -521,7 +521,7 @@ which creates a `vector` whose first element is the imaginary numer `2+3i`.
 
 # Additional For Loop Form
 
-A new for loop form is available in C++ as well, allowing you to interate over the elements in a sequential container easily. FOr example, to iterate over the characters in a string, you can do:
+A new for loop form is available in C++ as well, allowing you to iterate over the elements in a sequential container easily. For example, to iterate over the characters in a string, you can do:
 
 ```c++
 for ( char c : s ) {
