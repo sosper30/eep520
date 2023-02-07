@@ -488,7 +488,7 @@ v.pop_back();   // changes the array to { 1, 2 } (returns void)
 and for strings, you can write
 
 ```c++
-vector<string> s = {"abc"};
+vector<string> s = {"a", "b", "c"};
 s.push_back('d');
 s[0];      // 'a'
 s.back();  // 'c'
