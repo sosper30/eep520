@@ -489,7 +489,7 @@ and for strings, you can write
 
 ```c++
 vector<string> s = {"a", "b", "c"};
-s.push_back('d');
+s.push_back("d");
 s[0];      // 'a'
 s.back();  // 'c'
 s.front(); // 'a'
