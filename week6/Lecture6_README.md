@@ -488,8 +488,8 @@ v.pop_back();   // changes the array to { 1, 2 } (returns void)
 and for strings, you can write
 
 ```c++
-vector<int> s = "abc";
-s.push_back('d');
+vector<string> s = {"a", "b", "c"};
+s.push_back("d");
 s[0];      // 'a'
 s.back();  // 'c'
 s.front(); // 'a'
@@ -521,7 +521,7 @@ which creates a `vector` whose first element is the imaginary numer `2+3i`.
 
 # Additional For Loop Form
 
-A new for loop form is available in C++ as well, allowing you to interate over the elements in a sequential container easily. FOr example, to iterate over the characters in a string, you can do:
+A new for loop form is available in C++ as well, allowing you to iterate over the elements in a sequential container easily. For example, to iterate over the characters in a string, you can do:
 
 ```c++
 for ( char c : s ) {
