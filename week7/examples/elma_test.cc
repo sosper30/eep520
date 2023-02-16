@@ -50,9 +50,9 @@ namespace
     m.schedule(p, 1_ms)
         .schedule(q, 5_ms)
         .init()
-        .run(10_ms);
+        .run(11_ms);
 
-    ASSERT_EQ(p.num_updates(), 8);
+    ASSERT_EQ(p.num_updates(), 10);
     ASSERT_EQ(q.num_updates(), 2);
   }
 

@@ -25,8 +25,11 @@ namespace {
             }
             velocity += ( delta() / 1000 ) * ( - k * velocity + force ) / m;
             channel("Velocity").send(velocity);
-            std::cout << milli_time() << ","
-                    << velocity << " \n";
+//            std::cout << milli_time() << ","
+//                    << velocity << " \n";
+            std::cout << "t: "  << milli_time() << " ms\t"
+                                << " u: " << force        << " N\t"
+                                << " v: " << velocity     << " m/s\n";
         }
 
         void stop() {}
@@ -81,7 +84,7 @@ namespace {
          .add_channel(throttle)
          .add_channel(velocity)
          .init()
-         .run(10_s);
+         .run(15_s);
 
     }    
 
