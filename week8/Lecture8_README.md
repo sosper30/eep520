@@ -281,8 +281,8 @@ Example:
 {
   "ta": [
     {
-      "first": "Trung",
-      "last": "Le"
+      "first": "Sanskar",
+      "last": "Naik"
     }
   ],
   "weeks": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
@@ -367,8 +367,8 @@ json j = {
     {
         "ta", {
             {
-                { "first", "Trung" },
-                { "last", "Le" }
+                { "first", "Sanskar" },
+                { "last", "Naik" }
             }
         },
     },
