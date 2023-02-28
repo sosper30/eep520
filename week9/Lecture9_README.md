@@ -324,10 +324,44 @@ ENVIRO is a multi robot simulation environment with the following features:
 To start a Docker container with ENVIRO pre-loaded into it, do:
 
 ```bash
+docker run -p80:80 -p8765:8765 -v $PWD:/source -it klavins/enviro:v1.61 bash
+esm start
+```
+Note:
+There are different version of the klavins/enviro image, so it is possible that only one image would run on your computer. To know which image is suitable for your computer you may need to run all the images once.
+Here are all the version of the images:
+```bash
+docker run -p80:80 -p8765:8765 -v $PWD:/source -it klavins/enviro:v1.6 bash
+esm start
+```
+```bash
+docker run -p80:80 -p8765:8765 -v $PWD:/source -it klavins/enviro:v1.5 bash
+esm start
+```
+```bash
+docker run -p80:80 -p8765:8765 -v $PWD:/source -it klavins/enviro:v1.4 bash
+esm start
+```
+```bash
+docker run -p80:80 -p8765:8765 -v $PWD:/source -it klavins/enviro:v1.3 bash
+esm start
+```
+```bash
+docker run -p80:80 -p8765:8765 -v $PWD:/source -it klavins/enviro:v1.2 bash
+esm start
+```
+```bash
+docker run -p80:80 -p8765:8765 -v $PWD:/source -it klavins/enviro:1.1 bash
+esm start
+```
+```bash
+docker run -p80:80 -p8765:8765 -v $PWD:/source -it klavins/enviro:1.01 bash
+esm start
+```
+```bash
 docker run -p80:80 -p8765:8765 -v $PWD:/source -it klavins/enviro:alpha bash
 esm start
 ```
-
 The above commands do the following:
 
 - The `-p80:80 option maps _port_ 80 from the Docker container to ports on your host computer. This should allow you to go to
