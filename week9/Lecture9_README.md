@@ -968,8 +968,11 @@ The initial state and transitions are added to the constructor:
 ```c++
 WandererController() : StateMachine() {
     set_initial(moving_forward);
+    tick_name = "tick_" + std::to_string(rand() % 1000);
     add_transition("tick", moving_forward, rotating);
     add_transition("tick", rotating, moving_forward);
+    moving_forward.set_tick_name(tick_name);
+    rotating.set_tick_name(tick_name);
 }
 ```
 
